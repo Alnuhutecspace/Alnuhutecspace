@@ -1,8 +1,8 @@
 👋 Hi, I’m [Your Name]
-Mechanical Engineer | M.Sc. in Design & Solid Mechanics | DevOps Enthusiast
+Mechanical Engineer | MEng. in Design & Solid Mechanics | DevOps Enthusiast
 
-With a solid foundation in mechanical engineering and advanced studies in design and solid mechanics, I’m passionate about bridging engineering principles with modern software practices. Currently diving into DevOps to streamline workflows and automate infrastructure, I thrive on learning quickly and tackling new challenges.
+With a Solid Foundation in Mechanical Engineering and Advanced Studies in Design and Solid Mechanics, I’m Passionate about Bridging Engineering Principles With Modern Software Practices. Currently Diving into DevOps to Streamline Workflows and Automate Infrastructure, I Thrive on Learning Quickly and Tackling New Challenges.
 
-🚀 Fast learner | Problem solver | Always curious about new tech
+🚀 Fast Learner | Problem Solver | Always Curious about New Tech
 
-Let’s connect and build something amazing!
+Let’s Connect and Build Something Amazing!
